@@ -1,4 +1,4 @@
-New text in file
+New starting line
 Martin
 
 Semos cas 1 
