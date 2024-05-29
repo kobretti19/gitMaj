@@ -2,3 +2,5 @@ New starting line
 Martin
 
 Semos cas 1 
+
+Text added in feature 2
