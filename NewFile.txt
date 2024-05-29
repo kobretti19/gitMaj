@@ -1,1 +1,4 @@
-New text in new file 
+New text in file
+Martin
+
+Semos cas 1 
